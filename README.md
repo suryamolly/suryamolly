@@ -7,7 +7,7 @@ I love being in touch with thinkers and masterminds. It leads to fruitful discus
 Drop in a "Hi" and how about we talk design, products and tech!
 
 👯 I’m looking to collaborate on Android & Flutter Open Source Contribution
-⚒️ Trying out the Flutter.
+⚒️ Trying out the Flutter
 ⚛️ Looking for tutorial of Atomic Design Pattern
 📫 How to reach me: LinkedIn - suryamouly
 😄 Pronouns: He/His/Him
