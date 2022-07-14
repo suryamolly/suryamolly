@@ -2,6 +2,9 @@
 ![Logo](https://media-exp2.licdn.com/dms/image/C4E16AQFyUL7elOFZfw/profile-displaybackgroundimage-shrink_350_1400/0/1649181204119?e=1663200000&v=beta&t=wpDkST6Uwf-wxkGHrpMxnN225bBPqrOH5PuQgRHXbLs)
 
 
+# Hi, I'm Surya Mouly! 👋
+
+
 Decently fat guy. Wears glasses. Has a beard. Bear hug expert. thinks he's amusing. Enjoys talking about himself as a third individual. Furthermore loves food significantly more than he should.
 
 Hello, I’m Surya Mouly. Though I’m primarily a Software Developer,  I do appreciate exploring different verticals of Domains from time to time. Most of my learning comes from the internet and collaboration with other individuals.
@@ -21,3 +24,8 @@ Drop in a "Hi" and how about we talk design, products and tech!
 😄 Pronouns: He/His/Him
 
 
+
+## 🛠 Skills
+
+
+![Logo](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg) 
